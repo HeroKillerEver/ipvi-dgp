@@ -61,7 +61,24 @@ optional arguments:
 
 
 
+### Citation
+
+If you would like to use this code for your research, please cite this accordingly
+
+```
+@misc{yu2019implicit,
+    title={Implicit Posterior Variational Inference for Deep Gaussian Processes},
+    author={Haibin Yu and Yizhou Chen and Zhongxiang Dai and Kian Hsiang Low and Patrick Jaillet},
+    year={2019},
+    eprint={1910.11998},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
 
 
 
+### Acknowledgments
+
+Our code is built on  [GPflow](https://github.com/GPflow/GPflow), a package for building Gaussian process models in python, using [TensorFlow](http://www.tensorflow.org/). 
 
